@@ -1,0 +1,20 @@
+.cover__link {
+  display: flex;
+  flex-direction: column;
+  padding: 19.29% 0;
+  text-decoration: none;
+  color: #fff;
+  background: rgba(42, 44, 47, .3);
+}
+
+.cover__link:hover {
+  background: rgba(42, 44, 47, .8);
+  transition: .4s;
+}
+
+@media (max-width: 768px) {
+  .cover__link {
+    padding-top: 14.9%;
+    padding-bottom: 14.9%;
+  }
+}

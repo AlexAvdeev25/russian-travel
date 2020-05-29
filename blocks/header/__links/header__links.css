@@ -1,0 +1,14 @@
+.header__links {
+  width: 78px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+@media (max-width: 425px) {
+  .header__links {
+    width: 62px;
+  }
+}

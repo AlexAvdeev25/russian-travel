@@ -1,0 +1,11 @@
+.footer__links {
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+}
+
+@media (max-width: 737px) {
+  .footer__links {
+    display: block;
+  }
+}

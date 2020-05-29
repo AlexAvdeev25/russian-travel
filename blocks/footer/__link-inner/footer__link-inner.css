@@ -1,0 +1,14 @@
+.footer__link-inner {
+  margin: 0;
+}
+
+@media (max-width: 737px) {
+
+  .footer__link-inner {
+    margin-bottom: 32px;
+  }
+
+  .footer__link-inner:nth-child(5) {
+    margin-bottom: 0;
+  }
+}
