@@ -35,7 +35,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 766px) {
   .photo-grid {
     max-width: 719px;
     display: block;
